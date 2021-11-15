@@ -9,6 +9,7 @@
 - LinkedIn (https://www.linkedin.com/in/jamshid-khakimjonov-160565202/)
 - 😄 Pronouns: He/His/Mister
 - ⚡ Fun fact: is that i don't have any idea what to write
-- https://github.com/anuraghazra/github-readme-stats
-- 
+
+
+- (https://github-readme-stats.vercel.app/api?username=itsjamesspage)
 
